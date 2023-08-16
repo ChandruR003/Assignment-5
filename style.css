@@ -1,0 +1,148 @@
+.bodey{
+    background-color: white;
+}
+
+.container{
+    width: 1000px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header{
+    padding: 10px 0px;
+    box-shadow: 0px 5px 15px #534f4f;
+}
+
+.header_logo{
+    width: 100px;
+    height: auto;
+    margin-right: 100px;
+}
+    
+.header_nav{
+    width: 700px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.header_nav a{
+    text-decoration: none;
+    color: rgb(52, 21, 226);
+    margin: 0px 15px;
+}
+
+.header_nav a:hover{
+    color: rgb(0, 0, 0);
+}
+
+.header_btn{
+    margin-left: 700px;
+    margin-top: 15px;
+    width: 300px;
+}
+.header_nav header_btn_one {
+    margin-left: 20px;
+}
+
+.header_btn a{
+    margin: 10px 20px;
+    text-decoration: none;
+    color: rgb(122, 23, 235);
+    font-size: 20px;
+    padding: 20px 150x;
+    border-radius: 5px;
+}
+
+.header_btn_one{
+    color: white;
+}
+
+.header_btn_one:hover{
+    color: rgb(203, 253, 21);
+    background-color: #b5aeae;
+}
+.box9 {
+    width: 50%;
+    margin: auto;
+}
+.header_btn_two{
+    margin-left: 200px;
+    color: black;
+    background-color: yellow;
+}
+
+.header_btn_two:hover{
+    background-color: #cdd5e1;
+}
+
+.trainer{
+    background-color: blue;
+}
+
+.title{
+    margin: 70px;
+    margin-top: 100px;
+}
+.title_one {
+    width: 50%;
+    margin: auto;
+}
+.title_one img{
+    width: 100%;
+    margin: auto;
+}
+
+.title_one h1{
+    font-size: 30px;
+    margin-left: 30px;
+    color: white;
+}
+.title_one p {
+    font-size: 20px;
+    margin-left: 30px;
+    color: white;
+}
+.title_two{
+    width: 70%;
+}
+
+.row_two{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h3{
+    width: 30%;
+}
+
+.naresh{
+    margin-left: 200px;
+}
+
+.bg_color{
+    background-color: #b3c5d3;
+}
+.header_btn {
+    width: 20px;
+}
+.header_btn_three {
+    margin-left: 300px;
+    margin-top: 50px;
+    font-size: 30px;
+    color: white;
+    background-color: blueviolet;
+}
+.header_btn_three:hover {
+    color: yellow;
+}
+.header_btn_four {
+    margin-left: 100px;
+    color: whitesmoke;
+}
+.header_btn_four:hover {
+    color: black;
+}
